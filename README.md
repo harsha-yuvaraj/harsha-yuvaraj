@@ -1,4 +1,4 @@
-Hello! I’m Harsha, a BS/MS student in Computer Science and a teaching assistant at the University of South Florida. As the IEEE Tech Lead of Conferences, I orchestrate and oversee various tech events, blending my passion for innovation with my deep interests in Software Development, Artificial Intelligence, and Machine Learning. I am actively seeking **2025 SWE internships** and would love to connect—please reach out to me at **harshavardanyuvaraj@gmail.com**.
+Hello, world! I’m Harsha, a BS/MS student in Computer Science and a teaching assistant at the University of South Florida. As the IEEE Tech Lead of Conferences, I orchestrate and oversee various tech events, blending my passion for innovation with my deep interests in Software Development, Artificial Intelligence, and Machine Learning. I am actively seeking **2025 SWE internships** and would love to connect—please reach out to me at **harshavardanyuvaraj@gmail.com**.
 
 Currently, I’m expanding my skills in:
              <li> Artificial Intelligence and Machine Learning (PyTorch and TensorFlow) </li>
