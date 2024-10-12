@@ -1,4 +1,4 @@
-Hello, world! I’m Harsha, a BS/MS student in Computer Science and Algorithms teaching assistant at the University of South Florida. I am actively seeking **2025 SWE internships** and would love to connect — you can reach me at **[LinkedIn](https://www.linkedin.com/in/harsha-yuvaraj/)**.
+Hello, world! I’m Harsha, current BS/MS student in Computer Science and Algorithms teaching assistant at the University of South Florida. I am actively seeking **2025 SWE internships** and would love to connect — you can reach me at **[LinkedIn](https://www.linkedin.com/in/harsha-yuvaraj/)**.
 
 Currently, I’m expanding my skills in:
              <li> Artificial Intelligence and Machine Learning (PyTorch and TensorFlow) </li>
