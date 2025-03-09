@@ -4,10 +4,9 @@ Currently, I'm a Teaching Assistant for the Analysis of Algorithms course at the
 
 My technical toolkit includes Python, JavaScript, SQL, C#, Java, HTML5, and CSS, along with hands-on experience in frameworks and technologies like Django, ReactJS, PostgreSQL, REST APIs, AWS, Docker, Terraform, and more.
 
-Check out my projects below to see what I've been working on. I'm always open to meeting with people and exploring opportunities.
-**[LinkedIn](https://www.linkedin.com/in/harsha-yuvaraj/)**     
+Check out my projects below to see what I've been working on. I'm always open to meeting with people and exploring opportunities.  
 
-Check out my latest AI-powered tech blog: **[https://espressoblog.online/](https://espressoblog.online/)**
+Also check out my latest AI-powered tech blog: **[https://espressoblog.online/](https://espressoblog.online/)**
              
 <!---
 HarshaExplorer/HarshaExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
