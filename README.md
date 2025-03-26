@@ -7,6 +7,7 @@ My technical toolkit includes Python, JavaScript, SQL, C#, Java, HTML5, and CSS,
 Check out my projects below to see what I've been working on. I'm always open to meeting with people and exploring opportunities.  
 
 AI-powered tech blog: **[espressoblog.online](https://espressoblog.online/)**
+
 Conversational Voice AI: **[irisvoiceai.tech](https://irisvoiceai.tech/)**
              
 <!---
