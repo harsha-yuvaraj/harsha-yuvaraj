@@ -8,7 +8,7 @@ Check out my projects below to see what I've been working on. I'm always open to
 
 AI-powered tech blog: **[espressoblog.online](https://espressoblog.online/)**
 
-Conversational Voice AI: **[irisvoiceai.tech](https://irisvoiceai.tech/)**
+Conversational Voice AI Bot: **[irisvoiceai.tech](https://irisvoiceai.tech/)**
              
 <!---
 HarshaExplorer/HarshaExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
