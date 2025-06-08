@@ -6,9 +6,7 @@ My technical toolkit includes Python, JavaScript, SQL, C#, Java, HTML5, and CSS,
 
 Check out my projects below to see what I've been working on. I'm always open to meeting with people and exploring opportunities.  
 
-AI-powered tech blog: **[espressoblog.online](https://espressoblog.online/)**
-
-Conversational Voice AI Bot: **[irisvoiceai.tech](https://irisvoiceai.tech/)**
+My AI-powered tech blog: **[espressoblog.online](https://espressoblog.online/)**
              
 <!---
 HarshaExplorer/HarshaExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
