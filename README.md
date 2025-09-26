@@ -1,4 +1,4 @@
-Hi! I'm currently pursuing a combined BS/MS pathway in Computer Science at the University of South Florida. I'll be entering the master's program in Fall 2025, and I'm actively seeking SWE/SDE internships for Summer 2026 to learn and contribute to impactful projects.
+Hi! I'm currently pursuing a Master's in Computer Science (concentration in AI & ML) at the University of South Florida. I'm actively seeking software engineering internships for Summer 2026 to learn and contribute to impactful projects.
 
 Check out my projects below to see what I've been working on. Let's connect!  
              
